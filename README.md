@@ -1,6 +1,6 @@
 # MAIL CUTTER LITE 📥
 
-<h2>HOW TO USE</h2>
+<h3>HOW TO USE</h3>
 
 > [!NOTE]
 > Download the EXE file and open it, if you are using BoltFN then select mode 0, mode numbers are displayed to the left of their names <br>

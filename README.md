@@ -11,3 +11,4 @@
 ![Folder](/assets/FolderScreen.png)
 ![Primary](/assets/primary.png)
 ![Result](/assets/result.png)
+![Folder2](/assets/folder2.png)

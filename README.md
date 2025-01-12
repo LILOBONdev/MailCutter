@@ -8,4 +8,5 @@
 > [!TIP]
 > Create a folder `accs.txt` and place the mail combo there, if the program detects a space or an incorrect combo format, an error will follow
 
-![Primary](/assets/FolderScreen.png)
+![Folder](/assets/FolderScreen.png)
+![Primary](/assets/primary.png)

@@ -9,6 +9,7 @@
 > Create a folder `accs.txt` and place the mail combo there, if the program detects a space or an incorrect combo format, an error will follow
 
 Visit our Discord server: https://discord.gg/MYTfWnQmkE
+Buy the premium version for $3 on our Discord server
 
 ![Folder](/assets/FolderScreen.png)
 ![Primary](/assets/primary.png)
